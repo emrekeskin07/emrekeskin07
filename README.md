@@ -14,6 +14,8 @@ I build full-stack apps and take them all the way to production — and I like t
 - Market data services (Yahoo Finance, BilancoVeri) with caching
 - An AI assistant (Gemini) that answers using the user's own portfolio data
 
+*The source code is private. I'm happy to walk through it in an interview.*
+
 ### Other projects
 
 | Project | What it does | Stack |
